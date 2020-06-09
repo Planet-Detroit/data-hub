@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: c8405adfee37ae71d9f4
+gatekeeper_host: planet-detroit-data-hub
 
 # Dataset schema
 schema: default
