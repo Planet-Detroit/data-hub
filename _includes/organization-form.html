@@ -1,4 +1,4 @@
-<!--{% assign schema = page.schema | default: site.schema %}-->
+{% assign schema = page.schema | default: site.schema %}
 {% assign organization_fields = site.data.schemas[schema].organization_fields %}
 {% assign organization_system_fields = "title|description|logo" | split: "|" %}
 {% assign organizations = site.collections | where: "label", "organizations" | first %}
