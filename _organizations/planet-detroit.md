@@ -1,5 +1,4 @@
 ---
-schema: default
 title: 'Planet Detroit '
 description: >-
   Planet Detroit is a weekly email newsletter update to help you get smarter
