@@ -12,7 +12,7 @@ resources:
     format: html
 license: ''
 category:
-  - Environment
+  - Water
 maintainer: We the People Detroit
 maintainer_email: 'info@wethepeopleofdetroit.com '
 ---
