@@ -13,7 +13,7 @@
 - name: Maps
   logo: /img/categories/final icons/room-black-18dp.svg
   logo_credit: Google
-  featured: true
+  featured: false
 - name: Transportation
   logo: /img/categories/final icons/commute-24px.svg
   logo_credit: Google
@@ -33,7 +33,7 @@
 - name: Parks and Recreation
   logo: /img/categories/final icons/local_florist-black-18dp.svg
   logo_credit: Google
-  featured: true
+  featured: false
 - name: Health
   logo: /img/categories/final icons/healing-24px.svg
   logo_credit: Google
