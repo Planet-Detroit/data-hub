@@ -1,41 +1,41 @@
 - name: Water
-  logo: /img/categories/water.png
-  logo_credit: ''
+  logo: /img/categories/final icons/waves-black-18dp.svg
+  logo_credit: Google
   featured: true
 - name: Air
-  logo: /img/categories/air.png
-  logo_credit: unDraw
+  logo: /img/categories/final icons/filter_drama-24px.svg
+  logo_credit: Google
   featured: true
 - name: Climate
-  logo: /img/categories/climate.png
-  logo_credit: unDraw
+  logo: /img/categories/final icons/public-24px.svg
+  logo_credit: Google
   featured: true
 - name: Maps
-  logo: /img/categories/map.png
-  logo_credit: unDraw
+  logo: /img/categories/final icons/room-black-18dp.svg
+  logo_credit: Google
   featured: true
 - name: Transportation
-  logo: /img/categories/transport.png
-  logo_credit: unDraw
+  logo: /img/categories/final icons/commute-24px.svg
+  logo_credit: Google
   featured: true
 - name: Food
-  logo: /img/categories/food.png
-  logo_credit: unDraw
+  logo: /img/categories/final icons/fastfood-24px.svg
+  logo_credit: Google
   featured: true
 - name: Animals 
-  logo: /img/categories/animal.png
-  logo_credit: unDraw
+  logo: /img/categories/final icons/pets-24px.svg
+  logo_credit: Google
   featured: true
 - name: Poultion
-  logo: /img/categories/poultion.png
-  logo_credit: unDraw
+  logo: /img/categories/final icons/delete-24px.svg
+  logo_credit: Google
   featured: true
 - name: Parks and Recreation
-  logo: /img/categories/park.png
-  logo_credit: Pipe Rosas Licht from the Noun Project
+  logo: /img/categories/final icons/local_florist-black-18dp.svg
+  logo_credit: Google
   featured: true
 - name: Health
-  logo: /img/categories/health.png
-  logo_credit: ''
+  logo: /img/categories/final icons/healing-24px.svg
+  logo_credit: Google
   featured: true
 
