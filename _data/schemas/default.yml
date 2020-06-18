@@ -40,16 +40,16 @@ resource_fields:
     datajson: distribution.format
     form_template: form/dropdown.html
     values:
-      - api
-      - csv
-      - json
-      - geojson
-      - html
-      - kml
-      - kmz
-      - shp
-      - xml
-      - pdf
+      - Tabular data
+      - Spatial data
+      - Report
+      - Study
+      - Paper
+      - Video
+      - Audio
+      - Legal document
+      - Article
+      - Other
 
 organization_fields:
   - field_name: title
