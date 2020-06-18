@@ -1,6 +1,6 @@
 title: Planet Detroit Data Catalog
-greeting: Welcome to Planet Detroit's Data Catalog
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+greeting: Welcome to Planet Detroit’s Resource Hub
+description: Find and share data, documents, and resources about the local environment.
 baseurl: /data-hub
 logo: /img/pdlogo.png
 
