@@ -9,7 +9,7 @@ resources:
       Neighborhoods
     url: >-
       https://www.dropbox.com/s/2p7e7n8jur17lg1/081116_Mapping%20the%20Water%20Crisis_web.pdf?dl=0
-    format: html
+    format: ''
 license: ''
 category:
   - Water
