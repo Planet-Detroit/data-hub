@@ -13,7 +13,6 @@
 - name: Maps
   logo: /img/categories/final icons/room-black-18dp.svg
   logo_credit: Google
-  featured: false
 - name: Transportation
   logo: /img/categories/final icons/commute-24px.svg
   logo_credit: Google
@@ -22,20 +21,18 @@
   logo: /img/categories/final icons/fastfood-24px.svg
   logo_credit: Google
   featured: true
-- name: Animals 
+- name: Wildlife
   logo: /img/categories/final icons/pets-24px.svg
   logo_credit: Google
   featured: true
-- name: Poultion
+- name: Pollution
   logo: /img/categories/final icons/delete-24px.svg
   logo_credit: Google
   featured: true
 - name: Parks and Recreation
   logo: /img/categories/final icons/local_florist-black-18dp.svg
   logo_credit: Google
-  featured: false
 - name: Health
   logo: /img/categories/final icons/healing-24px.svg
   logo_credit: Google
   featured: true
-
