@@ -8,7 +8,7 @@ logo: /img/pdlogo.png
 jkan_theme: Readable
 
 # Authentication
-github_client_id: c8405adfee37ae71d9f4  
+github_client_id: 576921625942e662fa07
 gatekeeper_host: https://planet-detroit-data-hub.herokuapp.com
 
 # Dataset schema
